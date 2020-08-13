@@ -8,6 +8,7 @@ The above command will install all the dependencies needed for this project, whi
 3. **material-ui/core**
 4. **material-ui/icons**
 5. **classnames**
+6. **countup**
 
 After running the above command, you can easily run this application on your own server by using the following command:-
 > **npm start**
